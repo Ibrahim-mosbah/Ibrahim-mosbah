@@ -15,12 +15,10 @@
 <a href="https://www.linkedin.com/in/ibrahimmosbah" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:mazenwagih2005@gmail.com" target="_blank">
+<a href="mailto:csqr0601@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
-<a href="https://wa.me/201023778657" target="_blank">
-<img src=https://img.shields.io/badge/whatsapp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsapp style="margin-bottom: 5px;" />
-</a>
+
 
 </div>
 
